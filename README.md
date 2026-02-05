@@ -14,9 +14,11 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 
+~~~
 #Program to find the solution for the given linear equations.
 #Developed by: Pavan Kalyan P
 #RegisterNumber:212225240104
+~~~
 
 ## Program:
 ~~~
